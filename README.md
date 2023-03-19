@@ -12,6 +12,7 @@ El cuaderno se conforma de tres secciones o celdas:
 Si eres principiante se recomienda ejecutar las celdas número uno y número tres.
 Los **modelos** son archivos que contiene la información para generar imágenes, es decir sin un modelo no se podría generar imágenes.
 Este cuaderno proporciona varios modelos para generar imágenes, desde tipo anime hasta furry, selecciona el modelo de preferencia y comienza a jugar que imagen(es) vas a generar.
+
 Nota: Cada modelo es distinto con diferentes estilos ya se por los data sets que utilizaron asi como la mejora entre versiones de un mismo modelo a otro. Como complemento algunos modelos pueden generar imágenes más opacas o sin colores vividos por lo que se recomienda usar un archivo **VAE**.
 Para más información, recursos o consultas, visitar la wiki del cuaderno. [Aquí](https://github.com/AIrabbit0/FurryGenerator/wiki)
 

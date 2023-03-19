@@ -40,12 +40,12 @@ La celda número dos es una celda opcional ya que permite subir archivos como mo
 3.	Marque el número de archivos que va a importar.
 4.	Click derecho sobre el archivo a importar y copie la ruta junto con la extensión del archivo. Ejemplo: MyDrive/content/modelo.ckpt
 5.	Seleccione que tipo de archivo es si es modelo, lora, hypernetwork, embedding. Esto para que el archivo se guarde en la carpeta correcta.
-6.	Presione el play ( ▶ ) y espere que se cargue los componentes para pasar a la siguiente casilla.
+6.	Presione el play (▶) y espere que se cargue los componentes para pasar a la siguiente casilla.
 
 Para una guia mas extensa visitar la wiki. [Aquí](https://github.com/AIrabbit0/FurryGenerator/wiki)
 
 ## Wiki
 Para más información ir a la wiki, con guías sobre mas información de los modelos generativos, conceptos básicos, como usar las vistas o extensiones, personalizar el entorno, así como recursos y tutoriales de gente con experiencia. [Aquí](https://github.com/AIrabbit0/FurryGenerator/wiki)
 
-##Stable Diffusion licencia.
-[https://github.com/camenduru/stable-diffusion-webui-colab#:~:text=https%3A//huggingface.co/spaces/CompVis/stable%2Ddiffusion%2Dlicense](https://huggingface.co/spaces/CompVis/stable-diffusion-license)
+## Stable Diffusion licencia.
+https://huggingface.co/spaces/CompVis/stable-diffusion-license

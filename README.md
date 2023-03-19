@@ -9,8 +9,11 @@ El cuaderno se conforma de tres secciones o celdas:
 * La primera celda permite descargar los archivos para el entorno de la interfaz web, además de descargar los modelos de imágenes generativas como los archivo LoRA.
 * La segunda celda es una celda opcional y permite al usuario cargar archivos desde Google Drive al entorno.
 * Y la tercera celda permite ejecutar el entorno desplegando la interfaz gráfica.
+* 
 Si eres principiante se recomienda ejecutar las celdas número uno y número tres.
+
 Los **modelos** son archivos que contiene la información para generar imágenes, es decir sin un modelo no se podría generar imágenes.
+
 Este cuaderno proporciona varios modelos para generar imágenes, desde tipo anime hasta furry, selecciona el modelo de preferencia y comienza a jugar que imagen(es) vas a generar.
 
 Nota: Cada modelo es distinto con diferentes estilos ya se por los data sets que utilizaron asi como la mejora entre versiones de un mismo modelo a otro. Como complemento algunos modelos pueden generar imágenes más opacas o sin colores vividos por lo que se recomienda usar un archivo **VAE**.
@@ -21,10 +24,10 @@ Para más información, recursos o consultas, visitar la wiki del cuaderno. [Aqu
 1. Seleccione su modelo **marcando** la casilla. _Recomendación 3 a 4 modelos, ya que se puede quedar si espacio en el disco del entorno_. Y si sabe usar LoRA selecciona el archivo de su preferencia. 
 2. Presione el play (▶) y espere que se cargue los componentes para pasar a la siguiente casilla.
 3. Una vez que los archivos se hayan descargado dirigirse a la ultima casilla (número tres), para desplegar el entorno. 
-4.	Presione el play (▶), en la celda de iniciar entorno, para que se ejecute y despliegue la WebUI.
-5.	Al final mostrara tres enlaces, estos enlaces permiten desplegar la vista para usar la interfaz gráfica y pueda generar sus imágenes con más facilidad.
-6.	Selecciones cualquiera de los dos últimos enlaces para abrir la interfaz.
-7.	¡Diviértase!
+4. Presione el play (▶), en la celda de iniciar entorno, para que se ejecute y despliegue la WebUI.
+5. Al final mostrara tres enlaces, estos enlaces permiten desplegar la vista para usar la interfaz gráfica y pueda generar sus imágenes con más facilidad.
+6. Selecciones cualquiera de los dos últimos enlaces para abrir la interfaz.
+7. ¡Diviértase!
 
 ### Opcionalcargar archivos desde Google Drive
 

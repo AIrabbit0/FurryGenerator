@@ -9,7 +9,7 @@ El cuaderno se conforma de tres secciones o celdas:
 * La primera celda permite descargar los archivos para el entorno de la interfaz web, además de descargar los modelos de imágenes generativas como los archivo LoRA.
 * La segunda celda es una celda opcional y permite al usuario cargar archivos desde Google Drive al entorno.
 * Y la tercera celda permite ejecutar el entorno desplegando la interfaz gráfica.
-* 
+
 Si eres principiante se recomienda ejecutar las celdas número uno y número tres.
 
 Los **modelos** son archivos que contiene la información para generar imágenes, es decir sin un modelo no se podría generar imágenes.

@@ -19,7 +19,7 @@ Este cuaderno proporciona varios modelos para generar imágenes, desde tipo anim
 Nota: Cada modelo es distinto con diferentes estilos ya se por los data sets que utilizaron asi como la mejora entre versiones de un mismo modelo a otro. Como complemento algunos modelos pueden generar imágenes más opacas o sin colores vividos por lo que se recomienda usar un archivo **VAE**.
 Para más información, recursos o consultas, visitar la wiki del cuaderno. [Aquí](https://github.com/AIrabbit0/FurryGenerator/wiki)
 
-## **Instrucciones IA**
+## **Instrucciones de la IA**
 
 1. Seleccione su modelo **marcando** la casilla. _Recomendación 3 a 4 modelos, ya que se puede quedar si espacio en el disco del entorno_. Y si sabe usar LoRA selecciona el archivo de su preferencia. 
 2. Presione el play (▶) y espere que se cargue los componentes para pasar a la siguiente casilla.
@@ -47,3 +47,5 @@ Para una guia mas extensa visitar la wiki. [Aquí](https://github.com/AIrabbit0/
 ## Wiki
 Para más información ir a la wiki, con guías sobre mas información de los modelos generativos, conceptos básicos, como usar las vistas o extensiones, personalizar el entorno, así como recursos y tutoriales de gente con experiencia. [Aquí](https://github.com/AIrabbit0/FurryGenerator/wiki)
 
+##Stable Diffusion licencia.
+[https://github.com/camenduru/stable-diffusion-webui-colab#:~:text=https%3A//huggingface.co/spaces/CompVis/stable%2Ddiffusion%2Dlicense](https://huggingface.co/spaces/CompVis/stable-diffusion-license)

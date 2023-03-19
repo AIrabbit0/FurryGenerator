@@ -25,6 +25,7 @@ Para más información, recursos o consultas, visitar la wiki del cuaderno. [Aqu
 2. Presione el play (▶) y espere que se cargue los componentes para pasar a la siguiente casilla.
 3. Una vez que los archivos se hayan descargado dirigirse a la ultima casilla (número tres), para desplegar el entorno. 
 4. Presione el play (▶), en la celda de iniciar entorno, para que se ejecute y despliegue la WebUI.
+![Ejemplo](https://dochub.com/rabbit0bot/275eAYrVo3JjjnMVzXnBNQ/link-png?dt=s7zS8X3s9xtfmqkXWcBD)
 5. Al final mostrara tres enlaces, estos enlaces permiten desplegar la vista para usar la interfaz gráfica y pueda generar sus imágenes con más facilidad.
 6. Selecciones cualquiera de los dos últimos enlaces para abrir la interfaz.
 7. ¡Diviértase!

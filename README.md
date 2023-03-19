@@ -20,7 +20,7 @@ Para más información, recursos o consultas, visitar la wiki del cuaderno. [Aqu
 1. Seleccione su modelo **marcando** la casilla. _Recomendación 3 a 4 modelos, ya que se puede quedar si espacio en el disco del entorno_. Y si sabe usar LoRA selecciona el archivo de su preferencia. 
 2. Presione el play (▶) y espere que se cargue los componentes para pasar a la siguiente casilla.
 3. Una vez que los archivos se hayan descargado dirigirse a la ultima casilla (número tres), para desplegar el entorno. 
-4.	Presione el play ( ▶ ) para que el entorno se cargue.
+4.	Presione el play (▶), en la celda de iniciar entorno, para que se ejecute y despliegue la WebUI.
 5.	Al final mostrara tres enlaces, estos enlaces permiten desplegar la vista para usar la interfaz gráfica y pueda generar sus imágenes con más facilidad.
 6.	Selecciones cualquiera de los dos últimos enlaces para abrir la interfaz.
 7.	¡Diviértase!

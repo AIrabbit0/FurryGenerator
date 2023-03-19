@@ -29,7 +29,18 @@ Para más información, recursos o consultas, visitar la wiki del cuaderno. [Aqu
 6. Selecciones cualquiera de los dos últimos enlaces para abrir la interfaz.
 7. ¡Diviértase!
 
-### Opcionalcargar archivos desde Google Drive
+### Opcional cargar archivos desde Google Drive
+
+La celda número dos es una celda opcional ya que permite subir archivos como modelos de entrenamientos, hypernets, embeddings/textual inversors y/o archivos lora, al entorno. Esto para una personalizacion de los usuarios más experimentados que quieran hacer uso de archivos personalizados de su autoría o que tengan alojados en su Google Drive; El proceso para subir estos archivos al entorno es el siguiente:
+
+1.	Abra la carpeta de archivos de colab, que está en la barra lateral izquierda 📁
+2.	Busque su carpeta Drive y despliegue las carpetas que están adentro.
+3.	Marque el número de archivos que va a importar.
+4.	Click derecho sobre el archivo a importar y copie la ruta junto con la extensión del archivo. Ejemplo: MyDrive/content/modelo.ckpt
+5.	Seleccione que tipo de archivo es si es modelo, lora, hypernetwork, embedding. Esto para que el archivo se guarde en la carpeta correcta.
+6.	Presione el play ( ▶ ) y espere que se cargue los componentes para pasar a la siguiente casilla.
+
+Para una guia mas extensa visitar la wiki. [Aquí](https://github.com/AIrabbit0/FurryGenerator/wiki)
 
 **Nota**: *Si hay un error de desconexión, detener y ejecutar la celda número tres otra vez.*
 ## Wiki

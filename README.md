@@ -29,6 +29,8 @@ Para más información, recursos o consultas, visitar la wiki del cuaderno. [Aqu
 6. Selecciones cualquiera de los dos últimos enlaces para abrir la interfaz.
 7. ¡Diviértase!
 
+**Nota**: *Si hay un error de desconexión, detener y ejecutar la celda número tres otra vez.*
+
 ### Opcional cargar archivos desde Google Drive
 
 La celda número dos es una celda opcional ya que permite subir archivos como modelos de entrenamientos, hypernets, embeddings/textual inversors y/o archivos lora, al entorno. Esto para una personalizacion de los usuarios más experimentados que quieran hacer uso de archivos personalizados de su autoría o que tengan alojados en su Google Drive; El proceso para subir estos archivos al entorno es el siguiente:
@@ -42,7 +44,6 @@ La celda número dos es una celda opcional ya que permite subir archivos como mo
 
 Para una guia mas extensa visitar la wiki. [Aquí](https://github.com/AIrabbit0/FurryGenerator/wiki)
 
-**Nota**: *Si hay un error de desconexión, detener y ejecutar la celda número tres otra vez.*
 ## Wiki
 Para más información ir a la wiki, con guías sobre mas información de los modelos generativos, conceptos básicos, como usar las vistas o extensiones, personalizar el entorno, así como recursos y tutoriales de gente con experiencia. [Aquí](https://github.com/AIrabbit0/FurryGenerator/wiki)
 

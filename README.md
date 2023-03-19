@@ -29,5 +29,5 @@ Para más información, recursos o consultas, visitar la wiki del cuaderno. [Aqu
 
 **Nota**: *Si hay un error de desconexión, detener y ejecutar la celda número tres otra vez.*
 ## Wiki
-Para más información ir a la wiki, con guías sobre mas información de los modelos generativos, conceptos básicos, como usar las vistas o extensiones, personalizar el entorno, así como recursos y tutoriales de gente con experiencia. [Aquí](https://github.com/AIrabbit0/FurryGenerator/wiki
+Para más información ir a la wiki, con guías sobre mas información de los modelos generativos, conceptos básicos, como usar las vistas o extensiones, personalizar el entorno, así como recursos y tutoriales de gente con experiencia. [Aquí](https://github.com/AIrabbit0/FurryGenerator/wiki)
 
